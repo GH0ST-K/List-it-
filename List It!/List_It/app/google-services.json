@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629917385809",
+    "firebase_url": "https://list-it-c33dc.firebaseio.com",
+    "project_id": "list-it-c33dc",
+    "storage_bucket": "list-it-c33dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629917385809:android:50164ec0e0f79e361e2470",
+        "android_client_info": {
+          "package_name": "com.consensus.deg_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629917385809-34ih8nbcqmjjs1jk7d0qesbk5tks6744.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GnjWl5RE1NgtvB4-PH4FxlBSXf4F0do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629917385809-34ih8nbcqmjjs1jk7d0qesbk5tks6744.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

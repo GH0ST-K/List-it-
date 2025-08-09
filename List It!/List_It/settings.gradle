@@ -1,0 +1,6 @@
+include ':lib_task_api2'
+include ':models2'
+include ':lib_support2'
+include ':TF_Lite'
+include ':app'
+rootProject.name = 'List It!'
